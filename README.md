@@ -20,5 +20,3 @@ TravelGo is a full-stack travel booking web application that allows users to sea
 - **Database**: DynamoDB
 - **Deployment**: AWS EC2 Linux Instance
 - **Others**: AWS SNS (Notification Service), Flask Sessions, Jinja2 Templates
-
-## 🚀 Getting Started Locally
