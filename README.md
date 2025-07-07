@@ -22,9 +22,3 @@ TravelGo is a full-stack travel booking web application that allows users to sea
 - **Others**: AWS SNS (Notification Service), Flask Sessions, Jinja2 Templates
 
 ## 🚀 Getting Started Locally
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/YourUsername/TravelGo.git
-   cd TravelGo
